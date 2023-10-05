@@ -15,8 +15,8 @@
 	align-item:center;
 }
 .grid-container{
-	display:flex;
-	grid-gap:5PX;
-  
+	display:grid;
+   gap: 20px;
+  justify-content: center
 	
 }
